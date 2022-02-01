@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Tauseef!
-### ![Website badge]()
+### [Website]()
 
 - 👀 I’m interested in research and teaching.
 - 🌱 I’m currently learning whatever new thing is unknown to me.
